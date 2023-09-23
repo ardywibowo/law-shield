@@ -1,0 +1,106 @@
+category,question,question_text,answers
+General Information,Type of Consideration-Answer,What type of consideration is specified in this agreement?,
+Conditions to Closing,"Accuracy of Target ""General"" R&W: Bringdown Timing Answer",When are representations and warranties required to be made according to the bring down provision?,
+Conditions to Closing,"Accuracy of Target ""General"" R&W: Bringdown Standard Answer",How accurate must the representations and warranties be according to the bring down provision?,
+Conditions to Closing,Accuracy of Target Capitalization R&W (outstanding shares): Bringdown Standard Answer,How accurate must the capitalization representations and warranties be according to the bring down provision?,
+Conditions to Closing,Accuracy of Fundamental Target R&Ws: Bringdown Standard,How accurate must the fundamental representations and warranties be according to the bring down provision?,
+Conditions to Closing,Accuracy of Fundamental Target R&Ws-Types of R&Ws[MULTILABEL],,
+Conditions to Closing,Materiality/MAE Scrape applies to[MULTILABEL],,
+Compliance with Covenant Closing Condition,Compliance with Target Covenant Closing Condition-Answer,What covenants is the seller required to perform and comply with in all material respects?,
+Absence of Litigation Closing Condition,Absence of Litigation Closing Condition: Governmental v. Non-Governmental-Answer,"In the Absence of Litigation clause, the company affirms that there is no litigation from a certain range of parties, wherein an unfavorable decision, ruling or finding would have a Material Adverse Effect on the company’s ability to perform its obligations. What parties does this clause cover?",
+Absence of Litigation Closing Condition,Absence of Litigation Closing Condition: Pending v. Threatened v. Threatened in Writing-Answer,"In the Absence of Litigation clause, the company affirms that there is no certain types of litigation, wherein an unfavorable decision, ruling or finding would have a Material Adverse Effect on the company’s ability to perform its obligations. What type(s) of litigation does this clause cover?",
+Material Adverse Effect,MAE definition includes adverse impact on Target's ability to consummate,Does the definition of Material Adverse Effect (MAE) include adverse impact on Target’s ability to consummate?,
+Material Adverse Effect,"""Ability to consummate"" concept is subject to MAE carveouts",Is the “ability to consummate” concept subject to Material Adverse Effect (MAE) carveouts?,
+Material Adverse Effect,"MAE definition includes reference to Target ""prospects"" (Y/N)",Does the definition of Material Adverse Effect (MAE) include reference to Target “prospects”?,
+Material Adverse Effect,MAE Forward looking standard (Y/N),"Is the buyer allowed to declare a Material Adverse Effect (MAE) based on reasonably anticipated earnings losses, even when such losses have not yet occurred?",
+Material Adverse Effect,FLS (MAE) applies to[MULTILABEL],What does the Forward Looking Standard (FLS) pertaining to Material Adverse Effect (MAE) apply to?,
+Material Adverse Effect,FLS (MAE) Standard-Answer,What is the Forward Looking Standard (FLS) with respect to Material Adverse Effect (MAE)?,
+Material Adverse Effect,MAE applies to Target and subsidiaries (MAE)-Answer,Does the Material Adverse Effect (MAE) clause apply to subsidiaries of the Target?,"- ANSWER 1: Yes. Target and subsidiaries are ""taken as a whole.""
+- ANSWER 2: No"
+Material Adverse Effect,General political and/or social conditions (Y/N),Do changes caused by general political and/or social conditions qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,"General political and/or social conditions:  subject to ""disproportionate impact"" modifier",Do changes caused by general political and/or social conditions that have disproportionate impact qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,General economic and financial conditions (Y/N),Do changes caused by general economic and financial conditions qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,"General economic and financial conditions: subject to ""disproportionate impact"" modifier",Do changes caused by general economic and financial conditions that have disproportionate impact qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Changes in Target's industry (Y/N),Do changes in Target’s industry qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,"Change in Target's industry: subject to ""disproportionate impact"" modifier",Do changes in Target’s industry that have disproportionate impact qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Change in law (Y/N),Do changes in law qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,"Change in law:  subject to ""disproportionate impact"" modifier",Do changes in law that have disproportionate impact qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Changes in GAAP or other accounting principles (Y/N),Do changes in GAAP or other accounting principles qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,"Changes in GAAP or other accounting principles:  subject to ""disproportionate impact"" modifier",Do changes in GAAP or other accounting principles that have disproportionate impact qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,"Announcement, pendency or consummation of deal (Y/N)","Does the announcement, pendency or consummation of the deal qualify for Material Adverse Effect (MAE)?",
+Material Adverse Effect,A/P/C application to-Answer [MULTILABEL],Which of the following event qualifies for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Failure to meet projections (Y/N),Do failures to meet projections qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,"Failure to meet projections: subject to ""disproportionate impact"" modifier",Do failures to meet projections that have disproportionate impact qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Changes in market price/trading volume of Target's securities or credit rating (Y/N),Do changes in market price/trading volume of Target’s securities or credit rating qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,"Target's securities or credit rating: subject to ""disproportionate impact"" modifier",Do changes in market price/trading volume of Target’s securities or credit rating have to have disproportionate impact to qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,"War, terrorism, natural disasters, ""acts of God"" or force majeure-Answer (Y/N)","Does war, terrorism, natural disasters, ""acts of God"" or force majeure qualify for Material Adverse Effect (MAE)?",
+Material Adverse Effect,W/N/A/F applies to-Answer [MULTILABEL],Which of the following event qualifies for Material Adverse Effect (MAE)?,
+Material Adverse Effect,"W/N/A/F subject to ""disproportionate impact""-Answer[MULTILABEL]","Which of the following event, when having disproportionate impact, qualifies for Material Adverse Effect (MAE)?",
+Material Adverse Effect,Pandemic or other public health event-Answer (Y/N),Do pandemics or other public health events qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Pandemic or other public health event: Specific reference to COVID-19,Is there specific reference to the COVID-19 pandemic in the clause that qualifies pandemics or other public health events for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Pandemic or other public health event: specific reference to pandemic-related governmental responses or measures,Is there specific reference to pandemic-related governmental responses or measures in the clause that qualifies pandemics or other public health events for Material Adverse Effect (MAE)?,
+Material Adverse Effect,"Pandemic or other public health event:  subject to ""disproportionate impact"" modifier",Do pandemics or other public health events have to have disproportionate impact to qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Actions required under transaction agreement-Answer (Y/N),Does adverse effect arising directly from the taking of actions required under the transaction agreement qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Actions taken with consent or approval of Buyer-Answer (Y/N),Does adverse effect arising from actions taken with consent or approval of Buyer and required under the transaction agreement qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Target stockholder proceedings-Answer (Y/N),,
+Material Adverse Effect,Matters listed on disclosure schedules-Answer (Y/N),,
+Material Adverse Effect,Actions taken by Buyer-Answer (Y/N),Does adverse effect arising from actions taken by Buyer qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Action prohibited/omission required by the agreement-Answer,Does adverse effect arising from actions prohibited or omission required by the agreement qualify for Material Adverse Effect (MAE)?,
+Material Adverse Effect,Relational language (MAE carveout)-Answer (Y/N),,
+Material Adverse Effect,Relational language (MAE carveout)-Answer (Dropdown) [MULTILABEL],,
+Material Adverse Effect,Relational language (MAE) applies to,What carveouts pertaining to Material Adverse Effect (MAE) does the relational language apply to?,
+Knowledge,Knowledge Definition-Answer,What counts as Knowledge?,"- ANSWER 1: Actual knowledge
+- ANSWER 2: Constructive knowledge"
+Knowledge,Constructive Knowledge-Answer,What counts as Constructive Knowledge?,"- ANSWER 1: Knowledge based on investigation or inquiry
+- ANSWER 2: Knowledge based on role"
+Knowledge,Knowledge Definition limited to one or more identified persons-Answer (Y/,Is the definition of Knowledge limited to one or more identified persons?,
+Operating and Efforts Covenant,Buyer consent requirement (ordinary course)-Answer,"In case the Buyer’s consent for the acquired company’s ordinary business operations is required, are there any limitations on the Buyer’s right to condition, withhold, or delay their consent?","- ANSWER 1: Yes. Consent may not be unreasonably withheld, conditioned or delayed.
+- ANSWER 2: No."
+Operating and Efforts Covenant,"Includes ""consistent with past practice""",Does the wording of the Efforts Covenant clause include “consistent with past practice”?,
+Operating and Efforts Covenant,Ordinary course efforts standard-Answer,What is the efforts standard?,
+Operating and Efforts Covenant,Ordinary Course Covenant includes carve-out for Pandemic responses-Answer (Y/N),Does the Ordinary Course Covenant include carve-out for Pandemic responses?,
+Operating and Efforts Covenant,Buyer consent requirement (negative interim covenant)-Answer,What is the requirement for Buyer consent regarding the negative covenants of interim?,
+Operating and Efforts Covenant,Application of Buyer consent requirement (negative interim covenant)-Answer,What negative covenants does the requirement of Buyer consent apply to?,
+Operating and Efforts Covenant,Negative Interim Covenant includes carveout for pandemic responses-Answer (Y/N),Does the Negative Interim Covenant include carveout for pandemic responses?,
+Operating and Efforts Covenant,General Antitrust Efforts Standard-Answer,What is the General Antitrust Efforts Standard?,
+Deal Protection and Related Provisions,Liability for breaches of no-shop by Target Representatives (Y/N),Is there liability for breaches of no-shop by Target Representatives?,
+Deal Protection and Related Provisions,Liability standard for no-shop breach by Target Non-D&O Representatives,What is the liability standard for no-shop breach by Target Non-D&O Representatives?,
+Deal Protection and Related Provisions,Fiduciary exception:  Board determination standard-Answer (no-shop),Under what circumstances could the Board take actions on a different acquisition proposal notwithstanding the no-shop provision?,"- ANSWER 1: If failure to take actions would lead to ""breach"" of fiduciary duties
+- ANSWER 2: If failure to take actions would be ""inconsistent"" with fiduciary duties
+- ANSWER 3: If failure to take actions would lead to ""reasonably likely/expected breach"" of fiduciary duties
+- ANSWER 4: If failure to take actions would lead to ""reasonably likely/expected to be inconsistent"" with fiduciary duties
+- ANSWER 5: If failure to take actions would lead to ""reasonably likely/expected violation"" of fiduciary duties
+- ANSWER 6: If taking such actions is ""required to comply"" with fiduciary duties
+- ANSWER 7: If failure to take actions would lead to ""violation"" of fiduciary duties
+- ANSWER 8: Under no circumstances could the Board do so.
+- ANSWER 9: Other circumstances"
+Deal Protection and Related Provisions,Fiduciary exception: Board determination trigger (no shop)-Answer,What type of offer could the Board take actions on notwithstanding the no-shop provision?,
+Deal Protection and Related Provisions,COR permitted with board fiduciary determination only,Is Change of Recommendation permitted as long as the board determines that such change is required to fulfill its fiduciary obligations?,
+Deal Protection and Related Provisions,COR standard (board determination only)-answer,What standard should the board follow when determining whether to change its recommendation?,
+Deal Protection and Related Provisions,COR standard (superior offer),What standard should the board follow when determining whether to change its recommendation in connection with a superior offer?,
+Deal Protection and Related Provisions,COR permitted in response to Intervening Event,Is Change of Recommendation permitted in response to an intervening event?,
+Deal Protection and Related Provisions,COR standard (intervening event),What standard should the board follow when determining whether to change its recommendation in response to an intervening event?,
+Deal Protection and Related Provisions,Initial matching rights period (COR)-Answer,How long is the initial matching rights period in case the board changes its recommendation?,
+Deal Protection and Related Provisions,Additional matching rights period for modifications (COR)-Answer,How long is the additional matching rights period for modifications in case the board changes its recommendation?,
+Deal Protection and Related Provisions,Number of additional matching rights periods for modifications (COR),How many additional matching rights periods for modifications are allowed in case the board changes its recommendation?,
+Deal Protection and Related Provisions,Definition includes stock deals-Answer,What qualifies as a superior offer in terms of stock deals?,
+Deal Protection and Related Provisions,Definition includes asset deals-Answer,What qualifies as a superior offer in terms of asset deals?,
+Deal Protection and Related Provisions,"""Financial point of view"" is the sole consideration",Is “financial point of view” the sole consideration when determining whether an offer is superior?,
+Deal Protection and Related Provisions,Definition contains knowledge requirement - answer,What is the knowledge requirement in the definition of “Intervening Event”?,
+Deal Protection and Related Provisions,Knowledge persons include Target management (intervening event),"In the definition of “Intervening Event,” do knowledge persons include Target management?",
+Deal Protection and Related Provisions,Intervening Event - Required to Occur After Signing - answer,Is an “Intervening Event” required to occur after signing?,"- ANSWER 1: No. It may occur or arise prior to signing.
+- ANSWER 2: Yes. It must occur or arise after signing."
+Deal Protection and Related Provisions,Definition contains a materiality standard (Y/N),Does the definition of “Intervening Event” contain a materiality standard?,
+Deal Protection and Related Provisions,FTR Triggers-Answer,What could trigger the Fiduciary Termination Right (FTR)?,
+Deal Protection and Related Provisions,Limitations on FTR Exercise-Answer [MULTILABEL],What are the limitations on exercising the Fiduciary Termination Right (FTR)?,
+Deal Protection and Related Provisions,Initial matching rights period (FTR)-Answer,How long is the initial matching rights period in connection with the Fiduciary Termination Right (FTR)?,
+Deal Protection and Related Provisions,Additional matching rights period for modifications (FTR)-Answer,How long is the additional matching rights period for modifications in connection with the Fiduciary Termination Right (FTR)?,
+Deal Protection and Related Provisions,Number of additional matching rights periods for modifications (FTR),How many additional matching rights periods for modifications are allowed in connection with the Fiduciary Termination Right (FTR)?,
+Deal Protection and Related Provisions,Acquisition Proposal Timing-Answer [MULTILABEL],What is the required timing for processing an Acquisition Proposal in terms of the Tail Period?,
+Deal Protection and Related Provisions,Acquisition Proposal required to be publicly disclosed-Answer (Y/N),Is an Acquisition Proposal required to be publicly disclosed?,
+Deal Protection and Related Provisions,Acquisition Proposal required to be publicly disclosed-Answer [MULTILABEL],Are there any scenario where the “publicly disclosed” requirement applies?,
+Deal Protection and Related Provisions,Acquisition Proposal required to be still pending-Answer (Y/N),Is the Acquisition Proposal required to be still pending?,
+Deal Protection and Related Provisions,Tail Period Length-Answer,How long is the Tail Period?,
+Deal Protection and Related Provisions,"Breach of No Shop required to be willful, material and/or intentional","Is the Breach of “No Shop” provision required to be willful, material and/or intentional?",
+Deal Protection and Related Provisions,"Breach of Meeting Covenant required to be willful, material and/or intentional",,
+Remedies,Specific Performance-Answer,What is the wording of the Specific Performance clause regarding the parties’ entitlement in the event of a contractual breach?,

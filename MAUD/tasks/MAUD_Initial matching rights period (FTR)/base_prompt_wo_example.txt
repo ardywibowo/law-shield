@@ -1,0 +1,13 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: How long is the initial matching rights period in connection with the Fiduciary Termination Right (FTR)?
+Option A: 2 business days or less
+Option B: 3 business days
+Option C: 3 calendar days
+Option D: 4 business days
+Option E: 4 calendar days
+Option F: 5 business days
+Option G: 5 calendar days
+Option H: Greater than 5 business days
+
+Merger Agreement: {{text}}
+Answer:

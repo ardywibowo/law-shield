@@ -1,0 +1,9 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: {question}
+{options}
+
+Merger Agreement: {example_text}
+Answer: {example_answer}
+
+Merger Agreement: ||text||
+Answer:

@@ -1,0 +1,10 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What is the Forward Looking Standard (FLS) with respect to Material Adverse Effect (MAE)?
+Option A: "Could" (reasonably) be expected to
+Option B: "Would"
+Option C: "Would" (reasonably) be expected to
+Option D: No
+Option E: Other forward-looking standard
+
+Merger Agreement: {{text}}
+Answer:

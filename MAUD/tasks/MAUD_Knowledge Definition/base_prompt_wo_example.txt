@@ -1,0 +1,7 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What counts as Knowledge?
+Option A: Actual knowledge
+Option B: Constructive knowledge
+
+Merger Agreement: {{text}}
+Answer:
